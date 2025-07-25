@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7D09931-C7BD-4979-8BAC-6D6299ABD578}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Fergeda_2023</RootNamespace>
+    <AssemblyName>Inmobiliaria Fergeda</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>casa.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\Respaldo programador\Documentos\Programas Trabajados\Almacen_litopolis_27Nov17\Almacen_litopolis_27Nov17\bin\Release\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.11.3.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.11.3\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>D:\Respaldo programador\Documentos\Programas Trabajados\Almacen_litopolis_27Nov17\Almacen_litopolis_27Nov17\bin\Release\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>D:\Respaldo programador\Documentos\Programas Trabajados\Almacen_litopolis_27Nov17\Almacen_litopolis_27Nov17\bin\Release\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="SpreadsheetLight, Version=3.5.0.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.5.0\lib\netstandard2.0\SpreadsheetLight.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.5.0.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.7.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Archivos.cs" />
+    <Compile Include="Clases\CalculosFechas.cs" />
+    <Compile Include="Clases\Consultas.cs" />
+    <Compile Include="Clases\Correo.cs" />
+    <Compile Include="Clases\estiloVentana.cs" />
+    <Compile Include="Clases\FormatoFechas.cs" />
+    <Compile Include="Clases\formatoTablas.cs" />
+    <Compile Include="Clases\generarQr.cs" />
+    <Compile Include="Clases\ImpoExportarExcel.cs" />
+    <Compile Include="Clases\Info.cs" />
+    <Compile Include="Clases\MarcasAgua.cs" />
+    <Compile Include="Clases\numerosLetras.cs" />
+    <Compile Include="Clases\Rutas.cs" />
+    <Compile Include="Clases\Transformacion.cs" />
+    <Compile Include="Compras\CancelarOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\CancelarOC.Designer.cs">
+      <DependentUpon>CancelarOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\ConsultasCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\ConsultasCompras.Designer.cs">
+      <DependentUpon>ConsultasCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\ConsultasGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\ConsultasGeneral.Designer.cs">
+      <DependentUpon>ConsultasGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Correo\correoRequiCompras.cs" />
+    <Compile Include="Compras\MenuCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\MenuCompras.Designer.cs">
+      <DependentUpon>MenuCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\OrdenCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\OrdenCompra.Designer.cs">
+      <DependentUpon>OrdenCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\PDF\GenerarOCF.cs" />
+    <Compile Include="Compras\PDF\requisicioncompra.cs" />
+    <Compile Include="Compras\Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Proveedor.Designer.cs">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\RequisicionCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\RequisicionCompra.Designer.cs">
+      <DependentUpon>RequisicionCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\VistaRequ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\VistaRequ.Designer.cs">
+      <DependentUpon>VistaRequ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasCobrar\CargarFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasCobrar\CargarFacturas.Designer.cs">
+      <DependentUpon>CargarFacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasCobrar\CuentasCobradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasCobrar\CuentasCobradas.Designer.cs">
+      <DependentUpon>CuentasCobradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\CancelarSolicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\CancelarSolicitud.Designer.cs">
+      <DependentUpon>CancelarSolicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\chequeAsignado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\chequeAsignado.designer.cs">
+      <DependentUpon>chequeAsignado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\chequePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\chequePrint.designer.cs">
+      <DependentUpon>chequePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\CuentasPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\CuentasPagar.designer.cs">
+      <DependentUpon>CuentasPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\SolicitudCheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\CuentasPorPagar\SolicitudCheque.designer.cs">
+      <DependentUpon>SolicitudCheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\MenuFinanzas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas\MenuFinanzas.Designer.cs">
+      <DependentUpon>MenuFinanzas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas\PDF\FlujoBancos.cs" />
+    <Compile Include="Finanzas\PDF\GeneraPDF.cs" />
+    <Compile Include="Finanzas\RotaciondePagosFer.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\MensageC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\MensageC.Designer.cs">
+      <DependentUpon>MensageC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\PDF\SolicitudChequePDF.cs" />
+    <Compile Include="Mantenimiento Edificio\MenuMantoEdificio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento Edificio\MenuMantoEdificio.Designer.cs">
+      <DependentUpon>MenuMantoEdificio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Compras\CancelarOC.resx">
+      <DependentUpon>CancelarOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\ConsultasCompras.resx">
+      <DependentUpon>ConsultasCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\ConsultasGeneral.resx">
+      <DependentUpon>ConsultasGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\MenuCompras.resx">
+      <DependentUpon>MenuCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\OrdenCompra.resx">
+      <DependentUpon>OrdenCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Proveedor.resx">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\RequisicionCompra.resx">
+      <DependentUpon>RequisicionCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\VistaRequ.resx">
+      <DependentUpon>VistaRequ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasCobrar\CuentasCobradas.resx">
+      <DependentUpon>CuentasCobradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasPorPagar\CancelarSolicitud.resx">
+      <DependentUpon>CancelarSolicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasPorPagar\chequeAsignado.resx">
+      <DependentUpon>chequeAsignado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasPorPagar\chequePrint.resx">
+      <DependentUpon>chequePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasPorPagar\CuentasPagar.resx">
+      <DependentUpon>CuentasPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\CuentasPorPagar\SolicitudCheque.resx">
+      <DependentUpon>SolicitudCheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas\MenuFinanzas.resx">
+      <DependentUpon>MenuFinanzas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\MensageC.resx">
+      <DependentUpon>MensageC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento Edificio\MenuMantoEdificio.resx">
+      <DependentUpon>MenuMantoEdificio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="casa.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

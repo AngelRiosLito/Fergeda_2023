@@ -1,0 +1,802 @@
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\MySql.Data.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\itextsharp.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\MySql.Data.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\Bunifu_UI_v1.5.3.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\itextsharp.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\MySql.Data.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+Z:\Angel\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+Z:\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\ProgramadorJr\Documents\Valeria\Angel\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.RequisicionCompra.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\bin\Debug\QRCoder.dll
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Mantenimiento_Edificio.MenuMantoEdificio.resources
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.VistaRequ.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\QRCoder.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.Proveedor.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.RequisicionCompra.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.VistaRequ.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Mantenimiento_Edificio.MenuMantoEdificio.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+C:\Users\Finanzas-Pc\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+\\192.168.0.231\litopolis publico\Litopolis\Programacion\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+\\192.168.0.231\litopolis publico\Litopolis\Programacion\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+\\192.168.0.231\litopolis publico\Litopolis\Programacion\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+\\192.168.0.231\litopolis publico\Litopolis\Programacion\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Documents\Programas Trabajados\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.Proveedor.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\itextsharp.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\MySql.Data.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\QRCoder.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.Proveedor.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.RequisicionCompra.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.VistaRequ.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Mantenimiento_Edificio.MenuMantoEdificio.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Desktop\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\Inmobiliaria Fergeda.pdb
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\netstandard.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.AppContext.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Console.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Data.Common.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Pipes.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Http.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Ping.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Requests.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Security.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.Sockets.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ObjectModel.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Reader.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Resources.Writer.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Claims.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.Principal.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Security.SecureString.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Thread.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Threading.Timer.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.ValueTuple.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\QRCoder.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.Drawing.Common.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.dll
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\SpreadsheetLight.xml
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\bin\Debug\System.IO.Packaging.xml
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csprojAssemblyReference.cache
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe.config
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.CancelarOC.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasCompras.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.ConsultasGeneral.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.MenuCompras.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.OrdenCompra.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.Proveedor.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.RequisicionCompra.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Compras.VistaRequ.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasCobradas.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPorPagar.CancelarSolicitud.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequeAsignado.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.chequePrint.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.CuentasPagar.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.SolicitudCheque.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Finanzas.MenuFinanzas.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Form1.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.General.MensageC.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Mantenimiento_Edificio.MenuMantoEdificio.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.Properties.Resources.resources
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.GenerateResource.cache
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CoreCompileInputs.cache
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Fergeda_2023.csproj.CopyComplete
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.exe
+C:\Users\ProgramadorSr\Documents\Codigos\Fergeda_2023\Fergeda_2023\obj\Debug\Inmobiliaria Fergeda.pdb
